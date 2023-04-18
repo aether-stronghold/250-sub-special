@@ -1,6 +1,6 @@
 # 250-sub-special
 
-Download the map and join the celebration!
+🐲🎉 Download the map and join the celebration! 🐲🎉
 
 If you're not comfortable downloading and running the executable (or you're on linux), you can do the following:
 1) Download the release
